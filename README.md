@@ -3,7 +3,7 @@
 - Debian Jessie (8.4)
 - MySQL 5.6
 - PHP 5.6
-- NPM (latest available on Debian official repository)
+- Apache 2.2
 
 ## Install
 
